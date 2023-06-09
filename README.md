@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ariftechy
-- 👀 I’m interested in blockchain, web development
-- 🌱 I’m currently learning web development and blockchain
-- 💞️ I’m looking to collaborate on blockchain projects
+- 👀 I’m interested in cyber security
+- 🌱 I’m currently learning information security 
+- 💞️ I’m looking to collaborate on bug hunting 
 - 📫 How to reach me email me-arifalishaik01@gmail.com
 
 <!---
